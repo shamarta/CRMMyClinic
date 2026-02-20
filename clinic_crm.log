@@ -1,0 +1,13 @@
+2026-02-14 22:50:46,655 - app.main - INFO - Starting Clinic CRM v1.0.0
+2026-02-14 22:50:46,655 - app.main - INFO - Running in offline mode
+2026-02-14 22:50:46,666 - app.main - INFO - Using clinic_id: a6922192-1d20-41f2-bf0a-983a2b15458e
+2026-02-14 22:52:04,008 - app.database.sync - INFO - Sync is disabled in current app mode
+2026-02-14 22:53:50,252 - app.database.local_db - INFO - Local database connection closed
+2026-02-15 21:12:59,661 - app.main - INFO - Starting Clinic CRM v1.0.0
+2026-02-15 21:12:59,661 - app.main - INFO - Running in offline mode
+2026-02-15 21:12:59,671 - app.main - INFO - Using clinic_id: a6922192-1d20-41f2-bf0a-983a2b15458e
+2026-02-15 21:33:46,356 - app.database.local_db - INFO - Local database connection closed
+2026-02-16 11:57:47,592 - app.main - INFO - Starting Clinic CRM v1.0.0
+2026-02-16 11:57:47,592 - app.main - INFO - Running in offline mode
+2026-02-16 11:57:47,599 - app.main - INFO - Using clinic_id: a6922192-1d20-41f2-bf0a-983a2b15458e
+2026-02-16 11:59:27,867 - app.database.local_db - INFO - Local database connection closed
